@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "baseplate": {
+    "name": "Part",
+    "position": [
+      0.1351318359375,
+      0.0765838623046875,
+      -0.15000000596046448
+    ],
+    "material": "Concrete"
+  },
+  "objects": [
+    {
+      "name": "Part1",
+      "id": "e109fff721574fcc81814dbfc584bb22",
+      "model": "builtin:box",
+      "position": [
+        -4.0,
+        -1.0,
+        -0.0299956314265728
+      ],
+      "hpr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "material": "Plastic"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+2026-11-13 20:17:41 | INFO | game_client | Game client started successfully.
+2026-11-13 20:22:05 | INFO | game_client | Game client started successfully.
+2026-11-13 20:25:28 | INFO | game_client | Game client started successfully.
+2026-11-13 20:34:17 | INFO | world_editor | Created project at C:\Users\Thomas\curseforge\minecraft\Instances\dupe\mods
+2026-11-13 20:34:33 | INFO | world_editor | Opened project at C:\Users\Thomas\Desktop\Fearfall
+2026-11-13 20:35:45 | INFO | world_editor | Server is running. Share this address with teammates: 192.168.178.91:8765.
+2026-11-13 20:35:45 | INFO | world_editor | Connected to shared project (revision 0).
+2026-11-13 20:36:23 | INFO | world_editor | Connecting to editor server thomals.duckdns.org:8765...
+2026-11-13 20:36:23 | INFO | world_editor | Connected to shared project (revision 1).
+2026-11-13 20:46:36 | INFO | game_server | Server 'Abc' listening on 0.0.0.0:5000 (max players: 8, advertised address: not set, data: C:\Users\Thomas\AppData\Local\SandboxPrototype\servers\abc)
+2026-11-13 20:46:36 | INFO | game_server | Server is ready to accept player connections.
+2026-11-13 20:46:43 | INFO | game_client | Game client started successfully.
+2026-11-13 20:47:09 | WARNING | game_client | Network connection failed: timed out
+2026-11-13 20:47:19 | WARNING | game_client | Network connection failed: timed out
+2026-11-13 20:47:27 | WARNING | game_client | Network connection failed: timed out
+2026-11-13 20:47:37 | INFO | game_server | Player 6da1008265764d65a1debdc685392f2e connected from ('127.0.0.1', 63755)
+2026-11-13 20:48:11 | INFO | game_server | Player thomal39 (6da1008265764d65a1debdc685392f2e) disconnected
+2026-11-13 20:48:26 | WARNING | game_client | Network connection failed: timed out
+2026-11-13 20:48:43 | INFO | game_server | Player 0be2d16e60404291b7db4aafcea2beff connected from ('127.0.0.1', 49275)
+2026-11-13 20:49:16 | INFO | game_server | Server 'Anton' listening on 0.0.0.0:5000 (max players: 8, advertised address: not set, data: C:\Users\Thomas\AppData\Local\SandboxPrototype\servers\anton)
+2026-11-13 20:49:16 | INFO | game_server | Server is ready to accept player connections.
+2026-11-13 20:49:31 | INFO | game_server | Server stopped.
+2026-11-13 20:49:38 | WARNING | game_client | Network connection failed: Server closed the connection.
+2026-11-13 20:49:38 | INFO | game_server | Client connection ended: [WinError 10038] Ein Vorgang bezog sich auf ein Objekt, das kein Socket ist
+2026-11-13 20:49:38 | INFO | game_server | Player thomal39 (0be2d16e60404291b7db4aafcea2beff) disconnected
+2026-11-13 20:49:39 | INFO | game_server | Server stopped.
+2026-11-13 20:49:46 | INFO | game_client | Game client started successfully.
+2026-11-13 20:49:54 | WARNING | game_client | Network connection failed: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte
+2026-11-13 20:50:06 | INFO | game_server | Server 'Anton' listening on 0.0.0.0:5000 (max players: 8, advertised address: thomals.duckdns.org, data: C:\Users\Thomas\AppData\Local\SandboxPrototype\servers\anton)
+2026-11-13 20:50:06 | INFO | game_server | Server is ready to accept player connections.
+2026-11-13 20:50:18 | INFO | game_client | Game client started successfully.
+2026-11-13 20:50:22 | INFO | game_server | Player ced20f876a534ed4bf12ae3ee527a0cf connected from ('127.0.0.1', 49296)
+2026-11-13 20:50:24 | INFO | game_server | Player thomal39 (ced20f876a534ed4bf12ae3ee527a0cf) disconnected
+2026-11-13 20:50:38 | WARNING | game_client | Network connection failed: timed out
+2026-11-13 20:50:55 | INFO | game_server | Server stopped.
+2026-11-13 20:50:59 | INFO | game_server | Server 'Anton' listening on 0.0.0.0:5000 (max players: 8, advertised address: thomals.duckdns.org, data: C:\Users\Thomas\AppData\Local\SandboxPrototype\servers\anton)
+2026-11-13 20:50:59 | INFO | game_server | Server is ready to accept player connections.
+2026-11-13 20:51:14 | WARNING | game_client | Network connection failed: timed out
+2026-11-13 20:52:09 | INFO | game_server | Server 'Abc' listening on 0.0.0.0:5000 (max players: 8, advertised address: not set, data: C:\Users\Thomas\AppData\Local\SandboxPrototype\servers\abc)
+2026-11-13 20:52:09 | INFO | game_server | Server is ready to accept player connections.
+2026-11-13 20:52:19 | INFO | game_server | Player d28d2a269f7642ce8fc335155f40b502 connected from ('79.243.57.49', 59572)
+2026-11-13 20:52:26 | INFO | game_server | Player thomal39 (d28d2a269f7642ce8fc335155f40b502) disconnected
+2026-11-13 20:52:32 | INFO | game_server | Player 0071132aaa194d54a22daa65bf5df304 connected from ('93.212.155.191', 58273)
+2026-11-13 20:52:33 | INFO | game_server | Player b1860b3984a14a9dac2be0312215c3b3 connected from ('79.243.57.49', 51642)
+2026-11-13 20:53:34 | INFO | game_client | Game client started successfully.
+2026-11-13 20:54:08 | INFO | game_server | Player Dxrk (0071132aaa194d54a22daa65bf5df304) disconnected
+2026-11-13 20:54:16 | INFO | game_server | Player thomal39 (b1860b3984a14a9dac2be0312215c3b3) disconnected
+2026-11-13 20:55:09 | INFO | game_client | Game client started successfully.
+2026-11-13 20:56:35 | INFO | world_editor | Server is running. Share this address with teammates: 192.168.178.91:8765.
+2026-11-13 20:56:35 | INFO | world_editor | Connected to shared project (revision 0).
+2026-11-13 20:58:08 | INFO | world_editor | Shared project updated (revision 69).
+2026-11-13 20:58:17 | INFO | world_editor | Shared project updated (revision 95).
+2026-11-13 20:58:17 | INFO | world_editor | Shared project updated (revision 96).
+2026-11-13 20:58:17 | INFO | world_editor | Shared project updated (revision 97).
+2026-11-13 20:58:17 | INFO | world_editor | Shared project updated (revision 98).
+2026-11-13 20:58:17 | INFO | world_editor | Shared project updated (revision 99).
+2026-11-13 20:58:18 | INFO | world_editor | Shared project updated (revision 100).
+2026-11-13 20:58:18 | INFO | world_editor | Shared project updated (revision 101).
+2026-11-13 20:58:18 | INFO | world_editor | Shared project updated (revision 102).
+2026-11-13 20:58:18 | INFO | world_editor | Shared project updated (revision 103).
+2026-11-13 20:58:19 | INFO | world_editor | Shared project updated (revision 104).
+2026-11-13 20:58:19 | INFO | world_editor | Shared project updated (revision 105).
+2026-11-13 20:58:19 | INFO | world_editor | Shared project updated (revision 106).
+2026-11-13 20:58:24 | INFO | world_editor | Shared project updated (revision 107).
+2026-11-13 20:58:24 | INFO | world_editor | Shared project updated (revision 108).
+2026-11-13 20:58:24 | INFO | world_editor | Shared project updated (revision 109).
+2026-11-13 20:58:24 | INFO | world_editor | Shared project updated (revision 110).
+2026-11-13 20:58:25 | INFO | world_editor | Shared project updated (revision 111).
+2026-11-13 20:58:25 | INFO | world_editor | Shared project updated (revision 112).
+2026-11-13 20:58:25 | INFO | world_editor | Shared project updated (revision 113).
+2026-11-13 20:58:25 | INFO | world_editor | Shared project updated (revision 114).
+2026-11-13 20:58:25 | INFO | world_editor | Shared project updated (revision 115).
+2026-11-13 20:58:25 | INFO | world_editor | Shared project updated (revision 116).
+2026-11-13 20:58:25 | INFO | world_editor | Shared project updated (revision 117).
+2026-11-13 20:58:25 | INFO | world_editor | Shared project updated (revision 118).
+2026-11-13 20:58:25 | INFO | world_editor | Shared project updated (revision 119).
+2026-11-13 20:58:26 | INFO | world_editor | Shared project updated (revision 120).
+2026-11-13 20:58:26 | INFO | world_editor | Shared project updated (revision 121).
+2026-11-13 20:58:26 | INFO | world_editor | Shared project updated (revision 122).
+2026-11-13 20:58:26 | INFO | world_editor | Shared project updated (revision 123).
+2026-11-13 20:58:26 | INFO | world_editor | Shared project updated (revision 124).
+2026-11-13 20:58:27 | INFO | world_editor | Shared project updated (revision 125).
+2026-11-13 20:58:27 | INFO | world_editor | Shared project updated (revision 126).
+2026-11-13 20:58:27 | INFO | world_editor | Shared project updated (revision 127).
+2026-11-13 20:58:27 | INFO | world_editor | Shared project updated (revision 128).
+2026-11-13 20:58:27 | INFO | world_editor | Shared project updated (revision 129).
+2026-11-13 20:58:27 | INFO | world_editor | Shared project updated (revision 130).
+2026-11-13 20:58:27 | INFO | world_editor | Shared project updated (revision 131).
+2026-11-13 20:58:27 | INFO | world_editor | Shared project updated (revision 132).
+2026-11-13 20:58:27 | INFO | world_editor | Shared project updated (revision 133).
+2026-11-13 20:58:28 | INFO | world_editor | Shared project updated (revision 134).
+2026-11-13 20:58:28 | INFO | world_editor | Shared project updated (revision 135).
+2026-11-13 20:58:29 | INFO | world_editor | Shared project updated (revision 136).
+2026-11-13 20:58:29 | INFO | world_editor | Shared project updated (revision 137).
+2026-11-13 20:58:30 | INFO | world_editor | Shared project updated (revision 138).
+2026-11-13 20:58:30 | INFO | world_editor | Shared project updated (revision 139).
+2026-11-13 20:58:30 | INFO | world_editor | Shared project updated (revision 140).
+2026-11-13 20:58:30 | INFO | world_editor | Shared project updated (revision 141).
+2026-11-13 20:58:30 | INFO | world_editor | Shared project updated (revision 142).
+2026-11-13 20:58:30 | INFO | world_editor | Shared project updated (revision 143).
+2026-11-13 20:58:30 | INFO | world_editor | Shared project updated (revision 144).
+2026-11-13 20:58:30 | INFO | world_editor | Shared project updated (revision 145).
+2026-11-13 20:58:30 | INFO | world_editor | Shared project updated (revision 146).
+2026-11-13 20:58:31 | INFO | world_editor | Shared project updated (revision 147).
+2026-11-13 20:58:31 | INFO | world_editor | Shared project updated (revision 148).
+2026-11-13 20:58:31 | INFO | world_editor | Shared project updated (revision 149).
+2026-11-13 20:58:31 | INFO | world_editor | Shared project updated (revision 150).
+2026-11-13 20:58:32 | INFO | world_editor | Shared project updated (revision 151).
+2026-11-13 20:58:32 | INFO | world_editor | Shared project updated (revision 152).
+2026-11-13 20:58:32 | INFO | world_editor | Shared project updated (revision 153).
+2026-11-13 20:58:32 | INFO | world_editor | Shared project updated (revision 154).
+2026-11-13 20:58:47 | INFO | world_editor | Shared project updated (revision 155).
+2026-11-13 20:58:47 | INFO | world_editor | Shared project updated (revision 156).
+2026-11-13 20:58:47 | INFO | world_editor | Shared project updated (revision 157).
+2026-11-13 20:58:47 | INFO | world_editor | Shared project updated (revision 158).
+2026-11-13 20:58:47 | INFO | world_editor | Shared project updated (revision 159).
+2026-11-13 20:58:47 | INFO | world_editor | Shared project updated (revision 160).
+2026-11-13 20:58:47 | INFO | world_editor | Shared project updated (revision 161).
+2026-11-13 20:58:47 | INFO | world_editor | Shared project updated (revision 162).
+2026-11-13 20:58:47 | INFO | world_editor | Shared project updated (revision 163).
+2026-11-13 20:58:48 | INFO | world_editor | Shared project updated (revision 164).
+2026-11-13 20:58:48 | INFO | world_editor | Shared project updated (revision 165).
+2026-11-13 20:58:48 | INFO | world_editor | Shared project updated (revision 166).
+2026-11-13 20:58:48 | INFO | world_editor | Shared project updated (revision 167).
+2026-11-13 20:58:48 | INFO | world_editor | Shared project updated (revision 168).
+2026-11-14 08:59:08 | INFO | game_client | Game client started successfully.
